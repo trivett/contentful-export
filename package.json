@@ -50,7 +50,7 @@
     "echo-cli": "^1.0.8",
     "figures": "^2.0.0",
     "fs-extra": "^7.0.0",
-    "listr": "^0.14.1",
+    "listr": "^0.14.3",
     "listr-update-renderer": "^0.4.0",
     "listr-verbose-renderer": "^0.4.0",
     "lodash": "^4.17.10",
